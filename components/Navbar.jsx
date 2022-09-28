@@ -1,6 +1,5 @@
 import React from "react";
 import "../src/App.css";
-import Icon from "../src/assets/icon.png";
 import Girl from "../src/assets/Girl.png";
 import Plane from "../src/assets/Plane.png";
 import Cloud from "../src/assets/Cloud.png";
@@ -37,7 +36,7 @@ function Navbar() {
 
         <img src={Cloud} className="cloud-icon" />
       </div>
-      <p className="text">
+      <p className="text-1">
         Travel With The Best Travel Agents And Get Best Experience{" "}
       </p>
       <p className="text-2">
