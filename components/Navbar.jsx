@@ -12,7 +12,7 @@ import Pune from "../src/assets/Pune.png";
 import Rome from "../src/assets/Rome.png";
 import Tune from "../src/assets/Tune.png";
 
-function Navbar() {
+function Home() {
   return (
     <div>
       <nav className="navbar">
@@ -78,4 +78,4 @@ function Navbar() {
   );
 }
 
-export default Navbar;
+export default Home;
